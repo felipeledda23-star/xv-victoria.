@@ -1,0 +1,8 @@
+<div class="petals"></div>
+<body>
+<audio id="music" loop>
+  <source src="someone-like-you.mp3" type="audio/mpeg">
+  Tu navegador no soporta audio.
+</audio>
+
+<script src="script.js"></script>
